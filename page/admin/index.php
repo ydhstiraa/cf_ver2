@@ -105,11 +105,11 @@ if (!isset($_SESSION['username']) || $_SESSION['level'] != 'admin') {
             </li>
 
             <!-- Nav Item - Tables -->
-            <li class="nav-item">
+            <!-- <li class="nav-item">
                 <a class="nav-link" href="tables.html">
                     <i class="fas fa-fw fa-print"></i>
                     <span>Hasil</span></a>
-            </li>
+            </li> -->
 
             <!-- Divider -->
             <hr class="sidebar-divider">
